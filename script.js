@@ -4,8 +4,8 @@ const config = {
         "cardinal-system": false,
     },
     "bg":{
-        "activated": true,
-        "imgages": ["1.jpg", "2.jpeg"]
+        "activated": false,
+        "imgages": ["1-.jpg", "2-.jpeg"]
     }
 }
 
